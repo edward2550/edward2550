@@ -49,7 +49,7 @@ See [my website](https://edward2nunez.netlify.app) for more information!
       <h3 align="center">Feeder League</h3>
         <br />
       <a target="_blank" href="https://feeder-league.netlify.app/">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+            <img src="https://i.imgur.com/k1nG2EK.png" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
