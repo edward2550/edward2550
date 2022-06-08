@@ -71,7 +71,7 @@ See [my website](https://edward2nunez.netlify.app) for more information!
       <h3 align="center">Feeder League</h3>
       <br />
         <a target="_blank" href="https://feeder-league.netlify.app/">
-          <img src="blob:https://imgur.com/df557990-736f-43ad-b855-689b85144db7" width="100%" alt="Portfolio"/>
+          <img src="https://i.imgur.com/k1nG2EK.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
