@@ -1,4 +1,3 @@
-
 <img src="https://i.imgur.com/5IM5VgI.png" width="100%">
 
 <p align="center">
@@ -19,7 +18,7 @@
   </a>
 </p>
 
- Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Math, sports and Business Management.
+Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Math, sports and Business Management.
 
 See [my website](https://edward2nunez.netlify.app) for more information!
 
@@ -29,73 +28,65 @@ See [my website](https://edward2nunez.netlify.app) for more information!
   
   <tr>
     <td width="50%" valign="top">
-       <h3 align="center">Project 1</h3>
+      <h3 align="center">project 1</h3>
         <br />
-        <a target="_blank" href="">
-            <img src="" width="100%" alt="Project 1"/>
+        <a target="_blank" href="link">
+            <img src="img" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
           
- <a href="" target="_blank">
+  <a href="link" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="[https://poke-matchcards.netlify.app](https://pokemon-card-game-mathcing-e2n.netlify.app/)" target="_blank">
+  </a>  
+  <a href="link" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong></strong> </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Card Game</h3>
+      <h3 align="center">Feeder League</h3>
         <br />
-      <a target="_blank" href="">
-            <img src="https://i.imgur.com/i1Ot3WN.png" width="100%"  alt="Rigley 2"/>
-        </a>
-        <br />
-        <p align="center">
-   <a href="https://feeder-league.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript , Heroku</strong> - FullStack App - Application that represents stats from my 2k group</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Covid19 - tracker</h3>
-        <br />
-        <a target="_blank" href="">
-          <img src="https://i.imgur.com/KC4APXU.png" width="100%" alt="Matching Cards"/>
+      <a target="_blank" href="https://feeder-league.netlify.app/">
+            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
           
- <a href="https://github.com/edward2550/Pokemon-Card-Matching-Game" target="_blank">
+  <a href="https://github.com/edward2550/Feeder-leauge-part-1" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://pokemon-card-game-mathcing-e2n.netlify.app/" target="_blank">
+  <a href="https://feeder-league.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 40 different cards, test your memory in Pokemon</p>
+        <p><strong>HTML5, CSS3, Javascript & Heroku</strong> - FullStack App - Application that represents stats from my 2k group</p>
     </td>
   </tr>
   
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Card Matching Game </h3>
+      <br />
+        <a target="_blank" href="https://app.netlify.com/sites/pokemon-card-game-mathcing-e2n/overview">
+          <img src="https://i.imgur.com/MGIQSR9.png" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
   <a href="https://github.com/edward2550/Pokemon-Card-Matching-Game" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://pokemon-card-game-mathcing-e2n.netlify.app/" target="_blank">
+  <a href="https://app.netlify.com/sites/pokemon-card-game-mathcing-e2n/overview" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 40 different cards, test your memory in Pokemon</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 40 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
     </td>
-  </tr>
-  
-  <tr>
-      <h3 align="center">Covid19 - tracker</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">Covid19 - Tracker</h3>
         <br />
-        <a target="_blank" href="">
+        <a target="_blank" href="https://civd1999999.netlify.app/">
           <img src="https://i.imgur.com/KC4APXU.png" width="100%" alt="Matching Cards"/>
         </a>
         <br />
@@ -104,11 +95,11 @@ See [my website](https://edward2nunez.netlify.app) for more information!
   <a href="https://github.com/edward2550/Coivd-19-Tracker" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://civd1999999.netlify.app" target="_blank">
+  <a href="https://civd1999999.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React</strong> - React app to search Covid-19 cases by State in the United States . This app uses the Context API along with the useContext and useReducer hooks for state management </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - React app to search Covid-19 cases by State in the United States . This app uses the Context API along with the useContext and useReducer hooks for state management </p>
     </td>
   </tr>
 </table>
@@ -150,19 +141,19 @@ See [my website](https://edward2nunez.netlify.app) for more information!
 
 
 <p align="center">
-  <a href="https://edward2nunez.netlify.app/" target="_blank">
+  <a href="https://shawncharles.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/edward2nunez/" target="_blank">
+  <a href="https://shawncharles.com/linkedin" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/Edward2Nunez" target="_blank">
+  <a href="https://shawncharles.com/twitter" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://angel.co/u/edward-nunez-1" target="_blank">
+  <a href="https://shawncharles.com/angellist" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://docs.google.com/document/d/1r398UHXt544XVHtRfdsJzqS1Hpx1NflJ/edit?usp=sharing&ouid=106325803418397946628&rtpof=true&sd=true" target="_blank">
+  <a href="https://shawncharles.com/resume" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
