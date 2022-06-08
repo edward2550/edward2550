@@ -54,6 +54,20 @@ See [my website](https://edward2nunez.netlify.app) for more information!
         </a>
         <br />
         <p align="center">
+   <a href="https://feeder-league.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript , Heroku</strong> - FullStack App - Application that represents stats from my 2k group</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Covid19 - tracker</h3>
+        <br />
+        <a target="_blank" href="">
+          <img src="https://i.imgur.com/KC4APXU.png" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
           
  <a href="https://github.com/edward2550/Pokemon-Card-Matching-Game" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
@@ -67,24 +81,18 @@ See [my website](https://edward2nunez.netlify.app) for more information!
   </tr>
   
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Feeder League</h3>
-      <br />
-        <a target="_blank" href="https://feeder-league.netlify.app/">
-          <img src="https://i.imgur.com/k1nG2EK.png" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
- <a href="https://github.com/edward2550/Feeder-leauge-part-1/tree/main/feeder-league-app" target="_blank">
+  <a href="https://github.com/edward2550/Pokemon-Card-Matching-Game" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://feeder-league.netlify.app/" target="_blank">
+  <a href="https://pokemon-card-game-mathcing-e2n.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - FullStack App - Application that represents stats from my 2k group</p>
+         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 40 different cards, test your memory in Pokemon</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  
+  <tr>
       <h3 align="center">Covid19 - tracker</h3>
         <br />
         <a target="_blank" href="">
