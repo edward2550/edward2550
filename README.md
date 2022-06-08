@@ -68,21 +68,21 @@ See [my website](https://edward2nunez.netlify.app) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Protfolio</h3>
+      <h3 align="center">Feeder League</h3>
       <br />
-        <a target="_blank" href="https://edward2nunez.netlify.app/">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://feeder-league.netlify.app/">
+          <img src="blob:https://imgur.com/df557990-736f-43ad-b855-689b85144db7" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
- <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+ <a href="https://github.com/edward2550/Feeder-leauge-part-1/tree/main/feeder-league-app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
+  <a href="https://feeder-league.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - FullStack App - Application that represents stats from my 2k group</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Covid19 - tracker</h3>
