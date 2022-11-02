@@ -20,7 +20,7 @@
 
 Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Math, sports and Business Management.
 
-See [my website](https://edward2nunez.netlify.app) for more information!
+See [my website](https://edward2n.netlify.app/) for more information!
 
 
 <h1 align="center">Projects</h1>
