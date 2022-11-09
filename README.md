@@ -31,7 +31,7 @@ See [my website](https://edward2n.netlify.app/) for more information!
       <h3 align="center">BballStats</h3>
         <br />
         <a target="https://bball-api.herokuapp.com/" href="link">
-            <img src="![Screen Shot 2022-11-09 at 5 29 49 PM](https://user-images.githubusercontent.com/47010869/200956341-317e3a6d-2861-42ef-b3e3-d11ea33a8d8d.png)" width="100%" alt="BballStats App"/>
+            <img src="https://user-images.githubusercontent.com/47010869/200956341-317e3a6d-2861-42ef-b3e3-d11ea33a8d8d.png" width="100%" alt="BballStats App"/>
         </a>
         <br />
         <p align="center">
