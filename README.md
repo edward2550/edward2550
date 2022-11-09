@@ -45,7 +45,7 @@ See [my website](https://edward2n.netlify.app/) for more information!
       </p>
         <p><strong>Tech used: Node.js, Express.js, EJS, Passport, Bootstrap & JavaScript
 
-BballStats is a full stack web application following MVC architecture. It runs on Node.js and Express for the backend and EJS to render the views. Users can sign up using passport authentication and begin adding new basketball stats items to their inventory. The inventory list can be sorted by several columns and filtered . Individual items can be edited if quantities or other information needs to be updated.</strong> </p>
+BballStats is a full stack web application following MVC architecture. It runs on Node.js and Express for the backend and EJS to render the views.</strong> </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Feeder League</h3>
