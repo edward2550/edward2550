@@ -28,22 +28,25 @@ See [my website](https://edward2n.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">project 1</h3>
+      <h3 align="center">BballStats</h3>
         <br />
         <a target="_blank" href="link">
-            <img src="img" width="100%" alt="Travel App"/>
+            <img src="![Screen Shot 2022-11-09 at 5 29 49 PM](https://user-images.githubusercontent.com/47010869/200956341-317e3a6d-2861-42ef-b3e3-d11ea33a8d8d.png)
+" width="100%" alt="BballStats App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="link" target="_blank">
+  <a href="https://github.com/edward2550/Bball" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="link" target="_blank">
+  <a href="https://bball-api.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong></strong> </p>
+        <p><strong>Tech used: Node.js, Express.js, EJS, Passport, Bootstrap & JavaScript
+
+BballStats is a full stack web application following MVC architecture. It runs on Node.js and Express for the backend and EJS to render the views. Users can sign up using passport authentication and begin adding new basketball stats items to their inventory. The inventory list can be sorted by several columns and filtered . Individual items can be edited if quantities or other information needs to be updated.</strong> </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Feeder League</h3>
